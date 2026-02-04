@@ -1,0 +1,43 @@
+%%MatrixMarket matrix coordinate pattern general
+% Resulted compressed graph for given bipartite graph with 8 nodes, 70 density and 1.0 delta.
+% Input File: datasets/bipartite_graph_8_70_1.mtx 
+% Compression Ratio (E/E*):  1.2703 
+% Number of new/added vertices:  4 
+11 11 37
+0 9
+1 9
+2 9
+4 9
+5 9
+9 0
+9 5
+0 11
+1 11
+2 11
+3 11
+7 11
+11 1
+11 3
+3 0
+5 1
+6 1
+0 2
+6 2
+7 2
+1 8
+2 8
+4 8
+8 2
+8 7
+0 10
+1 10
+4 10
+5 10
+7 10
+10 4
+10 6
+3 4
+6 5
+7 5
+2 6
+6 6
